@@ -1,0 +1,34 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl Farbe,_weiß
+Ns 0.809998
+Ka 1.000000 1.000000 1.000000
+Kd 0.890196 0.890196 0.890196
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Kunststoff_PE,_weiss.002
+Ns 5.579997
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Verputz,_glatt,_weiß.002
+Ns 6.029997
+Ka 1.000000 1.000000 1.000000
+Kd 0.619608 0.623529 0.607843
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Twinmotion\\Texturen\\2ca762692b0a074c056e9d9431e8b289.png
+map_d Twinmotion\\Texturen\\2ca762692b0a074c056e9d9431e8b289.png

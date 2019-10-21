@@ -40,8 +40,8 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 3
-map_Kd C:\\Users\\ms\\AppData\\Local\\Abvent\\Export von Twinmotion\\Texturen\\8c6b23acdfec41cc481dd8cb44901c26.png
-map_d C:\\Users\\ms\\AppData\\Local\\Abvent\\Export von Twinmotion\\Texturen\\8c6b23acdfec41cc481dd8cb44901c26.png
+map_Kd Twinmotion\\Texturen\\8c6b23acdfec41cc481dd8cb44901c26.png
+map_d Twinmotion\\Texturen\\8c6b23acdfec41cc481dd8cb44901c26.png
 
 newmtl Farbe,_rot
 Ns 0.899999
@@ -102,8 +102,8 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 3
-map_Kd C:\\Users\\ms\\AppData\\Local\\Abvent\\Export von Twinmotion\\Texturen\\de10ee99c147b3b1c129dcfbd20fedef.png
-map_d C:\\Users\\ms\\AppData\\Local\\Abvent\\Export von Twinmotion\\Texturen\\de10ee99c147b3b1c129dcfbd20fedef.png
+map_Kd Twinmotion\\Texturen\\de10ee99c147b3b1c129dcfbd20fedef.png
+map_d Twinmotion\\Texturen\\de10ee99c147b3b1c129dcfbd20fedef.png
 
 newmtl Stahl,_rostfrei
 Ns 8.550003
@@ -124,5 +124,5 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 3
-map_Kd C:\\Users\\ms\\AppData\\Local\\Abvent\\Export von Twinmotion\\Texturen\\2ca762692b0a074c056e9d9431e8b289.png
-map_d C:\\Users\\ms\\AppData\\Local\\Abvent\\Export von Twinmotion\\Texturen\\2ca762692b0a074c056e9d9431e8b289.png
+map_Kd Twinmotion\\Texturen\\2ca762692b0a074c056e9d9431e8b289.png
+map_d Twinmotion\\Texturen\\2ca762692b0a074c056e9d9431e8b289.png
