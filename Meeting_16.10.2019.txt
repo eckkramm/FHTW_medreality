@@ -1,0 +1,19 @@
+Erster Release 5.11. --> wahrscheinlich nur videopresentation (von forjan) --> unsicher ob wir bis dahin fertig sein müssen
+Second Release 12.11 
+
+Third Release 12.12.
+
+22.10. 12 Uhr Meeting mit 3. Semestern
+31.10. 13 Uhr -> Besprechung mit gsm(sollte schon nah am Endprodukt sein)
+
+nice to have: Kabel bzw anstecken an medienversorgungseinheit
+must have: gondel (stab der von der medienversorgungseinheit runter hängt)
+Knöpfe/Stecker der medienversorgungseinheit mit Info-Panel versehen (Farbkodierung)
+Tischposition ist fix - aber drehbar
+
+Liste Geräte:
+    Beatmungsmaschine/Narkosegerät
+    Narkosewagen
+    Instrumententisch - Instrumente nicht bewegbar 
+    
+    
