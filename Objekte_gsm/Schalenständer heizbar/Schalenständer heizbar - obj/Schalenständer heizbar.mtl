@@ -1,0 +1,326 @@
+# FILE:Schalenständer.obj
+newmtl GDLM1_SHADOW_MATERIAL
+Ka 0.228885 0.228885 0.228885
+Kd 0.228885 0.228885 0.228885
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl FARBE__WEI__
+Ka 0.8 0.8 0.8
+Kd 0.89 0.89 0.89
+Ks 0.0891005 0.0891005 0.09
+illum 2
+Ns 2.2
+newmtl GLAS_LEUCHTEND
+Ka 0.612157 0.609412 0.510588
+Kd 0.830784 0.827059 0.692941
+Ks 0.28 0.28 0.28
+illum 2
+d 0.5
+Ns 79.52
+newmtl FARBE__BLAU
+Ka 0.192235 0.323765 0.623922
+Kd 0.181059 0.304941 0.587647
+Ks 0.0891005 0.0891005 0.09
+illum 2
+Ns 2.2
+newmtl GDLM5_OPAQUE
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl FARBE__SCHWARZ
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.0891005 0.0891005 0.09
+illum 2
+Ns 2.2
+newmtl GDLM7_PICTMAT
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl GDLM8_COLOR_I13_2
+Ka 0.364706 0.364706 0.917647
+Kd 0.182353 0.182353 0.458824
+Ks 0.182353 0.182353 0.458824
+illum 2
+Ns 3
+newmtl GDLM9_DEFAULT
+Ka 1 1 1
+Kd 0.5 0.5 0.5
+Ks 0.5 0.5 0.5
+illum 2
+Ns 3
+newmtl GDLM10_LIGHTGRAY_3
+Ka 0.662745 0.662745 0.662745
+Kd 0.331373 0.331373 0.331373
+Ks 0.331373 0.331373 0.331373
+illum 2
+Ns 3
+newmtl GDLM11_CHARCOAL_4
+Ka 0.137255 0.137255 0.137255
+Kd 0.0686275 0.0686275 0.0686275
+Ks 0.0686275 0.0686275 0.0686275
+illum 2
+Ns 3
+newmtl GDLM12_METAL_ALUMINUM_ANODIZ
+Ka 1 1 1
+Kd 0.5 0.5 0.5
+Ks 0.5 0.5 0.5
+illum 2
+Ns 3
+map_Ka Schalenständer_Textures\Metal_Aluminum_Anodized_5.jpg
+map_Kd Schalenständer_Textures\Metal_Aluminum_Anodized_5.jpg
+map_Ks Schalenständer_Textures\Metal_Aluminum_Anodized_5.jpg
+newmtl GDLM13_0076_GREEN_6
+Ka 0 0.501961 0
+Kd 0 0.25098 0
+Ks 0 0.25098 0
+illum 2
+Ns 3
+newmtl GDLM14_COLOR_003_7
+Ka 0.666667 0.666667 0.666667
+Kd 0.333333 0.333333 0.333333
+Ks 0.333333 0.333333 0.333333
+illum 2
+Ns 3
+newmtl GDLM15_COLOR_I09_8
+Ka 0.478431 0.478431 0.8
+Kd 0.239216 0.239216 0.4
+Ks 0.239216 0.239216 0.4
+illum 2
+Ns 3
+newmtl GDLM16_COLOR_007_9
+Ka 0.227451 0.227451 0.227451
+Kd 0.113725 0.113725 0.113725
+Ks 0.113725 0.113725 0.113725
+illum 2
+Ns 3
+newmtl GDLM17_COLOR_E06_10
+Ka 0.8 0.8 0
+Kd 0.4 0.4 0
+Ks 0.4 0.4 0
+illum 2
+Ns 3
+newmtl GDLM18_GRAY6_11
+Ka 0.376471 0.376471 0.376471
+Kd 0.188235 0.188235 0.188235
+Ks 0.188235 0.188235 0.188235
+illum 2
+Ns 3
+newmtl GDLM19_BLACK_12
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+Ns 3
+newmtl GDLM20_MATERIAL_13
+Ka 1 1 1
+Kd 0.5 0.5 0.5
+Ks 0.5 0.5 0.5
+illum 2
+Ns 3
+map_Ka Schalenständer_Textures\Blinds_Roman_Hobbled_Blue_13.jpg
+map_Kd Schalenständer_Textures\Blinds_Roman_Hobbled_Blue_13.jpg
+map_Ks Schalenständer_Textures\Blinds_Roman_Hobbled_Blue_13.jpg
+newmtl GDLM21_COLOR_C01_14
+Ka 1 0.498039 0
+Kd 0.5 0.24902 0
+Ks 0.5 0.24902 0
+illum 2
+Ns 3
+newmtl GDLM22_COLOR_005_15
+Ka 0.447059 0.447059 0.447059
+Kd 0.223529 0.223529 0.223529
+Ks 0.223529 0.223529 0.223529
+illum 2
+Ns 3
+newmtl GDLM23_COLOR_001_16
+Ka 0.886275 0.886275 0.886275
+Kd 0.443137 0.443137 0.443137
+Ks 0.443137 0.443137 0.443137
+illum 2
+Ns 3
+newmtl GDLM24_COOLGRAY4_17
+Ka 0.882353 0.886275 0.901961
+Kd 0.441176 0.443137 0.45098
+Ks 0.441176 0.443137 0.45098
+illum 2
+Ns 3
+newmtl GDLM25_COLOR_000_18
+Ka 1 1 1
+Kd 0.5 0.5 0.5
+Ks 0.5 0.5 0.5
+illum 2
+Ns 3
+newmtl GDLM26_TRANSLUCENT_GLASS_GRA
+Ka 0.501961 0.501961 0.501961
+Kd 0.25098 0.25098 0.25098
+Ks 0.25098 0.25098 0.25098
+illum 2
+d 0.5
+Ns 3
+newmtl GDLM27_MATERIAL_20
+Ka 1 1 1
+Kd 0.5 0.5 0.5
+Ks 0.5 0.5 0.5
+illum 2
+Ns 3
+map_Ka Schalenständer_Textures\Groundcover_Gravel_1inch_20.jpg
+map_Kd Schalenständer_Textures\Groundcover_Gravel_1inch_20.jpg
+map_Ks Schalenständer_Textures\Groundcover_Gravel_1inch_20.jpg
+newmtl GDLM28_COLOR_C07_21
+Ka 0.8 0.478431 0.156863
+Kd 0.4 0.239216 0.0784314
+Ks 0.4 0.239216 0.0784314
+illum 2
+Ns 3
+newmtl GDLM29_IVORY_22
+Ka 1 1 0.941176
+Kd 0.5 0.5 0.470588
+Ks 0.5 0.5 0.470588
+illum 2
+Ns 3
+newmtl GDLM30_MATERIAL_23
+Ka 1 1 1
+Kd 0.5 0.5 0.5
+Ks 0.5 0.5 0.5
+illum 2
+Ns 3
+map_Ka Schalenständer_Textures\dghegdegdegde_23.jpg
+map_Kd Schalenständer_Textures\dghegdegdegde_23.jpg
+map_Ks Schalenständer_Textures\dghegdegdegde_23.jpg
+newmtl KUNSTSTOFF_PVC__ORANGE
+Ka 0.8 0.401569 0.200784
+Kd 0.8 0.401569 0.200784
+Ks 0.62 0.62 0.62
+illum 2
+Ns 28.18
+newmtl MELAMIN-SPANPLATTE
+Ka 0.9 0.858471 0.795051
+Kd 0.6 0.572314 0.530034
+Ks 0.2 0.195621 0.193677
+illum 2
+Ns 10
+newmtl FARBE__GR__N
+Ka 0.148392 0.455294 0.168627
+Kd 0.139765 0.428824 0.158824
+Ks 0.0891005 0.0891005 0.09
+illum 2
+Ns 2.2
+newmtl FARBE__ROT
+Ka 0.527294 0 0
+Kd 0.732353 0 0
+Ks 0.1 0.08 0.08
+illum 2
+Ns 1
+newmtl KUNSTSTOFF_PE__WEISS
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.62 0.62 0.62
+illum 2
+Ns 28.18
+newmtl PEN_MATERIAL170
+Ka 0.15259 0.15259 0.842191
+Kd 0.15259 0.15259 0.842191
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl METAL_-_STAINLESS_STEEL
+Ka 0.80098 0.786078 0.808431
+Kd 0.286667 0.281333 0.289333
+Ks 0.923922 0.923922 0.923922
+illum 2
+Ns 18
+newmtl LEDER__SCHWARZ
+Ka 0.176471 0.176471 0.191176
+Kd 0.176471 0.176471 0.191176
+Ks 0.52 0.52 0.52
+illum 2
+Ns 61.6
+map_Ka Schalenständer_Textures\Leder 02 schwarz GS.jpg
+map_Kd Schalenständer_Textures\Leder 02 schwarz GS.jpg
+map_Ks Schalenständer_Textures\Leder 02 schwarz GS.jpg
+newmtl FARBE__GRAU
+Ka 0.467765 0.467765 0.467765
+Kd 0.540235 0.540235 0.540235
+Ks 0.366667 0.366667 0.366667
+illum 2
+Ns 11
+newmtl METALL_STAHL__GEB__RSTET
+Ka 0.337059 0.337059 0.337059
+Kd 0.419451 0.419451 0.419451
+Ks 0.413373 0.413373 0.413373
+illum 2
+Ns 0
+map_Ka Schalenständer_Textures\Stahl_gebürstet GS.jpg
+map_Kd Schalenständer_Textures\Stahl_gebürstet GS.jpg
+map_Ks Schalenständer_Textures\Stahl_gebürstet GS.jpg
+newmtl GLAS_RAUCHGLAS
+Ka 0.468157 0.468157 0.468157
+Kd 0.273922 0.273922 0.273922
+Ks 1 1 1
+illum 2
+d 0.85
+Ns 30
+newmtl FARBE__HELLGRAU
+Ka 0.654314 0.654314 0.654314
+Kd 0.755686 0.755686 0.755686
+Ks 0.366667 0.366667 0.366667
+illum 2
+Ns 11
+newmtl STAHL__ROSTFREI
+Ka 0.798197 0.790123 0.806257
+Kd 0.285671 0.282781 0.288555
+Ks 0.921878 0.921878 0.921878
+illum 2
+Ns 18
+newmtl TEXTIL_STOFF__GRAU
+Ka 0.448235 0.448235 0.448235
+Kd 0.448235 0.448235 0.448235
+Ks 0 0 0
+illum 2
+Ns 100
+newmtl METALL_CHROM
+Ka 0.36702 0.36702 0.36702
+Kd 0.494353 0.494353 0.494353
+Ks 0.96 0.96 0.96
+illum 2
+Ns 53.92
+newmtl GLAS_PROFILIT
+Ka 0.386275 0.488235 0.317647
+Kd 0.386275 0.488235 0.317647
+Ks 0.25 0.25 0.25
+illum 2
+d 0.61
+Ns 13.03
+newmtl ASPHALT
+Ka 0.163575 0.163575 0.163575
+Kd 0.15994 0.15994 0.15994
+Ks 0 0 0
+illum 2
+Ns 0.32
+map_Ka Schalenständer_Textures\Gehweg Asphalt dunkel-opt GS.jpg
+map_Kd Schalenständer_Textures\Gehweg Asphalt dunkel-opt GS.jpg
+map_Ks Schalenständer_Textures\Gehweg Asphalt dunkel-opt GS.jpg
+newmtl METALL_STAHL__POLIERT
+Ka 0.359843 0.347686 0.313647
+Kd 0.383059 0.370118 0.333882
+Ks 0.348627 0.348627 0.348627
+illum 2
+Ns 0
+map_Ka Schalenständer_Textures\Metall Eisen 01 GS.jpg
+map_Kd Schalenständer_Textures\Metall Eisen 01 GS.jpg
+map_Ks Schalenständer_Textures\Metall Eisen 01 GS.jpg
+newmtl METALL_STAHL__MATT
+Ka 0.337059 0.337059 0.337059
+Kd 0.419451 0.419451 0.419451
+Ks 0.413373 0.413373 0.413373
+illum 2
+Ns 0
+map_Ka Schalenständer_Textures\Stahl_matt GS.jpg
+map_Kd Schalenständer_Textures\Stahl_matt GS.jpg
+map_Ks Schalenständer_Textures\Stahl_matt GS.jpg
