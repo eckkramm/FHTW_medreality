@@ -4,6 +4,7 @@ using System.Collections;
 public class SlidingDoor : MonoBehaviour {
 
 	public Transform doorTransform;
+	// weiss nicht was das macht, müsste man testen
 	public float raiseHeight = 3f;
 	public float speed = 3f;
 	private Vector3 _closedPosition;
