@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 5cf9ae1708e41414486bbf98ae9a5be1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Archmodels70_030_01
+    100002: Archmodels70_030_02
+    100004: Archmodels70_030_03
+    100006: Archmodels70_030_04
+    100008: Archmodels70_030_05
+    100010: Archmodels70_030_06
+    100012: Archmodels70_030_07
+    100014: Archmodels70_030_08
+    100016: Archmodels70_030_09
+    100018: Archmodels70_030_10
+    100020: Archmodels70_030_11
+    100022: Archmodels70_030_12
+    100024: Archmodels70_030_13
+    100026: Archmodels70_030_14
+    100028: Archmodels70_030_15
+    100030: Archmodels70_030_16
+    100032: Archmodels70_030_17
+    100034: //RootNode
+    400000: Archmodels70_030_01
+    400002: Archmodels70_030_02
+    400004: Archmodels70_030_03
+    400006: Archmodels70_030_04
+    400008: Archmodels70_030_05
+    400010: Archmodels70_030_06
+    400012: Archmodels70_030_07
+    400014: Archmodels70_030_08
+    400016: Archmodels70_030_09
+    400018: Archmodels70_030_10
+    400020: Archmodels70_030_11
+    400022: Archmodels70_030_12
+    400024: Archmodels70_030_13
+    400026: Archmodels70_030_14
+    400028: Archmodels70_030_15
+    400030: Archmodels70_030_16
+    400032: Archmodels70_030_17
+    400034: //RootNode
+    2100000: 'Material #85'
+    2100002: No Name
+    2100004: 'Material #90'
+    2100006: 'Material #91'
+    2100008: 'Material #92'
+    2100010: 'Material #93'
+    2100012: 'Material #94'
+    2100014: 'Material #95'
+    2100016: 'Material #96'
+    2100018: 'Material #97'
+    2100020: 'Material #98'
+    2100022: 'Material #99'
+    2100024: 'Material #81'
+    2100026: 'Material #84'
+    2100028: 'Material #104'
+    2100030: 'Material #101'
+    2100032: 'Material #100'
+    2100034: 'Material #102'
+    2100036: 'Material #103'
+    2100038: zolty
+    2100040: 'Material #107'
+    2100042: 'Material #77'
+    2100044: 'Material #80'
+    2100046: 'Material #110'
+    2100048: 'Material #111'
+    2100050: 'Material #83'
+    2100052: 'Material #78'
+    2100054: 'Material #79'
+    2100056: 'Material #82'
+    2300000: Archmodels70_030_01
+    2300002: Archmodels70_030_02
+    2300004: Archmodels70_030_03
+    2300006: Archmodels70_030_04
+    2300008: Archmodels70_030_05
+    2300010: Archmodels70_030_06
+    2300012: Archmodels70_030_07
+    2300014: Archmodels70_030_08
+    2300016: Archmodels70_030_09
+    2300018: Archmodels70_030_10
+    2300020: Archmodels70_030_11
+    2300022: Archmodels70_030_12
+    2300024: Archmodels70_030_13
+    2300026: Archmodels70_030_14
+    2300028: Archmodels70_030_15
+    2300030: Archmodels70_030_16
+    2300032: Archmodels70_030_17
+    3300000: Archmodels70_030_01
+    3300002: Archmodels70_030_02
+    3300004: Archmodels70_030_03
+    3300006: Archmodels70_030_04
+    3300008: Archmodels70_030_05
+    3300010: Archmodels70_030_06
+    3300012: Archmodels70_030_07
+    3300014: Archmodels70_030_08
+    3300016: Archmodels70_030_09
+    3300018: Archmodels70_030_10
+    3300020: Archmodels70_030_11
+    3300022: Archmodels70_030_12
+    3300024: Archmodels70_030_13
+    3300026: Archmodels70_030_14
+    3300028: Archmodels70_030_15
+    3300030: Archmodels70_030_16
+    3300032: Archmodels70_030_17
+    4300000: Archmodels70_030_01
+    4300002: Archmodels70_030_02
+    4300004: Archmodels70_030_03
+    4300006: Archmodels70_030_04
+    4300008: Archmodels70_030_05
+    4300010: Archmodels70_030_06
+    4300012: Archmodels70_030_07
+    4300014: Archmodels70_030_08
+    4300016: Archmodels70_030_09
+    4300018: Archmodels70_030_10
+    4300020: Archmodels70_030_11
+    4300022: Archmodels70_030_12
+    4300024: Archmodels70_030_13
+    4300026: Archmodels70_030_14
+    4300028: Archmodels70_030_15
+    4300030: Archmodels70_030_16
+    4300032: Archmodels70_030_17
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
