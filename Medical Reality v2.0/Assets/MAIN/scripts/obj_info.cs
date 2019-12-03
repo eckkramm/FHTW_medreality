@@ -37,7 +37,7 @@ public class obj_info : MonoBehaviour
         {
             bool showHint = IsEligibleForHint(hand);
             bool isShowingHint = !string.IsNullOrEmpty(ControllerButtonHints.GetActiveHintText(hand, myAction));
-                
+
             if (showHint)
             {
                 if (!isShowingHint)
@@ -46,7 +46,7 @@ public class obj_info : MonoBehaviour
                     {
                         if (hand == player.leftHand)
                         {
-                            ControllerButtonHints.ShowTextHint(hand, myAction, this.infoText);
+                            ControllerButtonHints.ShowTextHint(hand, myAction, this.infoText);                            
                             //Debug.Log("linke hand");
                         }
                         else if (hand == player.rightHand)
