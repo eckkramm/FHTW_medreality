@@ -1868,7 +1868,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 69912875}
-  infoText: INFO!
+  infoText: "Fl\xFCssigkeitsw\xE4rmer"
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -4072,7 +4072,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 163956657}
-  infoText: INFO!
+  infoText: "Patientenw\xE4rmer"
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -8477,7 +8477,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 352238786}
-  infoText: "Ablage f\xFCr Operationsintrumente"
+  infoText: Instrumententisch
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -12014,7 +12014,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 488917409}
-  infoText: "Ablage f\xFCr Operationsintrumente"
+  infoText: "Instrumententisch gro\xDF"
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -15181,7 +15181,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 560306845}
-  infoText: "Saugt Luft oder K\xF6rperfl\xFCssigkeiten ab"
+  infoText: elektrische Absaugpumpe
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -17241,7 +17241,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 618617030}
-  infoText: "Befestigung f\xFCr Infusionsbeh\xE4lter"
+  infoText: "Infusionsst\xE4nder"
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -18664,7 +18664,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 685877158}
-  infoText: "Stellt L\xF6sungen/T\xFCcher/Fl\xFCssigkeiten bereit"
+  infoText: "Schalenst\xE4nder"
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -19280,7 +19280,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 707395450}
-  infoText: "\xDCbernimmt die Beatmung"
+  infoText: Narkosemaschine
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -24604,7 +24604,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 946002044}
-  infoText: "Ablage f\xFCr Operationsintrumente"
+  infoText: Instrumententisch
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -26840,7 +26840,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 1019363574}
-  infoText: "Stellt L\xF6sungen/T\xFCcher/Fl\xFCssigkeiten bereit"
+  infoText: "Schalenst\xE4nder beheizt"
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -29186,7 +29186,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 1088803534}
-  infoText: "Ablage f\xFCr Operationsintrumente"
+  infoText: Instrumententisch
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -35096,7 +35096,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 1348795447}
-  infoText: "Ablage f\xFCr Narkosezubeh\xF6r"
+  infoText: Narkosewagen
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -36289,7 +36289,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 1386179950}
-  infoText: "\xDCbernimmt die Beatmung"
+  infoText: Narkosemaschine
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -37389,7 +37389,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 1410274968}
-  infoText: INFO!
+  infoText: "Patientenw\xE4rmer"
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -38310,7 +38310,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 1429989831}
-  infoText: "Ablage f\xFCr Operationsintrumente"
+  infoText: "Instrumententisch gro\xDF"
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -39674,7 +39674,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 1490634888}
-  infoText: INFO!
+  infoText: "Hochfrequenz Ger\xE4t"
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -40969,7 +40969,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 1524010624}
-  infoText: "Stellt L\xF6sungen/T\xFCcher/Fl\xFCssigkeiten bereit"
+  infoText: "Schalenst\xE4nder beheizt"
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -43430,7 +43430,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 1627214944}
-  infoText: "Ablage f\xFCr Operationsintrumente"
+  infoText: Instrumententisch
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -46090,7 +46090,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 1768432155}
-  infoText: "Saugt Luft oder K\xF6rperfl\xFCssigkeiten ab"
+  infoText: Absaugpumpe
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -46791,7 +46791,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 1812729872}
-  infoText: "Ablage f\xFCr Narkosezubeh\xF6r"
+  infoText: Narkosewagen
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -47689,7 +47689,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 1840053983}
-  infoText: "Ablage f\xFCr Operationsintrumente"
+  infoText: Instrumententisch
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -48358,7 +48358,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 1866719531}
-  infoText: INFO!
+  infoText: "Hochfrequenz Ger\xE4t"
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -49994,7 +49994,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 1918576048}
-  infoText: "Befestigung f\xFCr Infusionsbeh\xE4lter"
+  infoText: "Infusionsst\xE4nder"
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -50526,7 +50526,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 1940178048}
-  infoText: "Stellt L\xF6sungen/T\xFCcher/Fl\xFCssigkeiten bereit"
+  infoText: "Schalenst\xE4nder"
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -55819,7 +55819,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 2107823343}
-  infoText: "Ablage f\xFCr Operationsintrumente"
+  infoText: Instrumententisch
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
@@ -58017,7 +58017,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   assignedObject: {fileID: 1884897305868788801}
-  infoText: INFO!
+  infoText: "Fl\xFCssigkeitsw\xE4rmer"
   myAction:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
